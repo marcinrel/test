@@ -1,11 +1,10 @@
 {
-  "zpdo": [
-    { "subjectId": "GUID", "subjectValue": "9151744447", "subjectType":"taxId", "eventId": "1", "evidenceId": "GUID", "evidenceType": "2", "created" : "data" }
+  "consents": [
+    { "consentType": "zpdo", "subjectId": "GUID", "subjectValue": "9151744447", "subjectType":"taxId", "eventId": "1", "evidenceId": "GUID", "evidenceType": "2", "created" : "data" },
+    { "consentType": "zsude", "subjectId": "GUID", "subjectValue": "+48695742795", "subjectType":"taxId", "eventId": "1", "evidenceId": "GUID", "evidenceType": "2", "created" : "data" },
+    { "consentType": "zt", "subjectId": "GUID", "subjectValue": "9151744447", "subjectType":"taxId", "eventId": "1", "evidenceId": "GUID", "evidenceType": "2", "created" : "data" }
   ],  
-  "zsude": [
+  "informationObligations": [
     { "subjectId": "GUID", "subjectValue": "+48695742795", "subjectType":"taxId", "eventId": "1", "evidenceId": "GUID", "evidenceType": "2", "created" : "data" }
-  ],  
-  "zt": [
-    { "subjectId": "GUID", "subjectValue": "9151744447", "subjectType":"taxId", "eventId": "1", "evidenceId": "GUID", "evidenceType": "2", "created" : "data" }
   ]
 }
