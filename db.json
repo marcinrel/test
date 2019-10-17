@@ -36,6 +36,33 @@
             "created": "2019-10-11 11:12:00.111",
             "isActive": "true",
             "age": "9"
+          },          {
+            "primary": "safssdfas",
+            "identityType": "email",
+            "identityValue": "marcin.rel@wp.pl",
+            "consentType": "ZŚUDE",
+            "state": "Wyrażona",
+            "created": "2019-10-11 11:12:00.111",
+            "isActive": "false",
+            "age": "9"
+          },          {
+            "primary": "safssdfas",
+            "identityType": "email",
+            "identityValue": "marcin.rel@wp.pl",
+            "consentType": "ZŚUDE",
+            "state": "Wyrażona",
+            "created": "2019-10-11 11:12:00.111",
+            "isActive": "false",
+            "age": "9"
+          },          {
+            "primary": "safssdfas",
+            "identityType": "email",
+            "identityValue": "marcin.rel@wp.pl",
+            "consentType": "ZŚUDE",
+            "state": "Wyrażona",
+            "created": "2019-10-11 11:12:00.111",
+            "isActive": "false",
+            "age": "9"
           }
 		  ],
   "informationObligations": [
