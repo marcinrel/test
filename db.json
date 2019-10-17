@@ -1,9 +1,142 @@
 {
   "consents": [
-    { "consentType": "zpdo", "subjectId": "GUID", "subjectValue": "9151744447", "subjectType":"taxId", "eventId": "1", "evidenceId": "GUID", "evidenceType": "2", "created" : "data" },
-    { "consentType": "zsude", "subjectId": "GUID", "subjectValue": "+48695742795", "subjectType":"mail", "eventId": "1", "evidenceId": "GUID", "evidenceType": "2", "created" : "data" },
-    { "consentType": "zt", "subjectId": "GUID", "subjectValue": "9151744447", "subjectType":"taxId", "eventId": "1", "evidenceId": "GUID", "evidenceType": "2", "created" : "data" }
-  ],  
+    
+          {
+            primary: "safssdfas",
+            identityType: "taxId",
+            identityValue: "9151744447",
+            consentType: 'ZPDO',
+            state: 'Wyrażona',
+            created: '2019-10-11 11:12:00.111',
+            isActive: 'true',
+            age: 9
+          },{
+            primary: "safssdfas",
+            identityType: "personalNumber",
+            identityValue: "86102009799",
+            consentType: 'ZPDO',
+            state: 'Wyrażona',
+            created: '2019-10-11 11:12:00.111',
+            isActive: 'false',
+            age: 9
+          },{
+            primary: "safssdfas",
+            identityType: "email",
+            identityValue: "marcin.rel@krd.pl",
+            consentType: 'ZŚUDE',
+            state: 'Wycofana',
+            created: '2019-10-11 11:12:00.111',
+            isActive: 'false',
+            age: 9
+          },{
+            primary: "safssdfas",
+            identityType: "phone",
+            identityValue: "+48561744447",
+            consentType: 'ZŚUDE',
+            state: 'Wyrażona',
+            created: '2019-10-11 11:12:00.111',
+            isActive: 'false',
+            age: 9
+          },{
+            primary: "safssdfas",
+            identityType: "phone",
+            identityValue: "+48561744447",
+            consentType: 'ZŚUDE',
+            state: 'Wyrażona',
+            created: '2019-10-11 11:12:00.111',
+            isActive: 'false',
+            age: 9
+          },{
+            primary: "safssdfas",
+            identityType: "phone",
+            identityValue: "+48561744447",
+            consentType: 'ZŚUDE',
+            state: 'Wyrażona',
+            created: '2019-10-11 11:12:00.111',
+            isActive: 'false',
+            age: 9
+          },{
+            primary: "safssdfas",
+            identityType: "phone",
+            identityValue: "+48561744447",
+            consentType: 'ZŚUDE',
+            state: 'Wyrażona',
+            created: '2019-10-11 11:12:00.111',
+            isActive: 'false',
+            age: 9
+          },{
+            primary: "safssdfas",
+            identityType: "phone",
+            identityValue: "+48561744447",
+            consentType: 'ZŚUDE',
+            state: 'Wyrażona',
+            created: '2019-10-11 11:12:00.111',
+            isActive: 'false',
+            age: 9
+          },{
+            primary: "safssdfas",
+            identityType: "phone",
+            identityValue: "+48561744447",
+            consentType: 'ZŚUDE',
+            state: 'Wyrażona',
+            created: '2019-10-11 11:12:00.111',
+            isActive: 'false',
+            age: 9
+          },{
+            primary: "safssdfas",
+            identityType: "phone",
+            identityValue: "+48561744447",
+            consentType: 'ZŚUDE',
+            state: 'Wyrażona',
+            created: '2019-10-11 11:12:00.111',
+            isActive: 'false',
+            age: 9
+          },{
+            primary: "safssdfas",
+            identityType: "phone",
+            identityValue: "+48561744447",
+            consentType: 'ZŚUDE',
+            state: 'Wyrażona',
+            created: '2019-10-11 11:12:00.111',
+            isActive: 'false',
+            age: 9
+          },{
+            primary: "safssdfas",
+            identityType: "phone",
+            identityValue: "+48561744447",
+            consentType: 'ZŚUDE',
+            state: 'Wyrażona',
+            created: '2019-10-11 11:12:00.111',
+            isActive: 'false',
+            age: 9
+          },{
+            primary: "safssdfas",
+            identityType: "phone",
+            identityValue: "+48561744447",
+            consentType: 'ZŚUDE',
+            state: 'Wyrażona',
+            created: '2019-10-11 11:12:00.111',
+            isActive: 'false',
+            age: 9
+          },{
+            primary: "safssdfas",
+            identityType: "phone",
+            identityValue: "+48561744447",
+            consentType: 'ZŚUDE',
+            state: 'Wyrażona',
+            created: '2019-10-11 11:12:00.111',
+            isActive: 'false',
+            age: 9
+          },{
+            primary: "safssdfas",
+            identityType: "phone",
+            identityValue: "+48561744447",
+            consentType: 'ZŚUDE',
+            state: 'Wyrażona',
+            created: '2019-10-11 11:12:00.111',
+            isActive: 'false',
+            age: 9
+          }  ],  
   "informationObligations": [
     { "subjectId": "GUID", "subjectValue": "+48695742795", "subjectType":"taxId", "eventId": "1", "evidenceId": "GUID", "evidenceType": "2", "created" : "data" }
   ]
