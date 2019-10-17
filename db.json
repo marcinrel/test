@@ -32,7 +32,7 @@
             "identityType": "email",
             "identityValue": "marcin.rel@wp.pl",
             "consentType": "ZŚUDE",
-            "state": "Wyrażona",
+            "state": "Wycofana",
             "created": "2019-10-11 11:12:00.111",
             "isActive": "true",
             "age": "9"
@@ -41,7 +41,7 @@
             "identityType": "email",
             "identityValue": "marcin.rel@wp.pl",
             "consentType": "ZŚUDE",
-            "state": "Wyrażona",
+            "state": "Wycofana",
             "created": "2019-10-11 11:12:00.111",
             "isActive": "false",
             "age": "9"
@@ -50,7 +50,7 @@
             "identityType": "email",
             "identityValue": "marcin.rel@wp.pl",
             "consentType": "ZŚUDE",
-            "state": "Wyrażona",
+            "state": "Wycofana",
             "created": "2019-10-11 11:12:00.111",
             "isActive": "false",
             "age": "9"
@@ -59,7 +59,7 @@
             "identityType": "email",
             "identityValue": "marcin.rel@wp.pl",
             "consentType": "ZŚUDE",
-            "state": "Wyrażona",
+            "state": "Wycofana",
             "created": "2019-10-11 11:12:00.111",
             "isActive": "false",
             "age": "9"
