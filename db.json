@@ -3,7 +3,7 @@
           {
             "primary": "safssdfas",
             "identityType": "taxId",
-            "identityValue": "9151744447",
+            "identityValue": "<i class="fas fa-id-card"></i>9151744447",
             "consentType": "ZPDO",
             "state": "Wyrażona",
             "created": "2019-10-11 11:12:00.111",
