@@ -34,7 +34,7 @@
             "consentType": "ZŚUDE",
             "state": "Wycofana",
             "created": "2019-10-09 11:12:00.111",
-            "isActive": "true",
+            "isActive": "false",
             "age": "9"
           },          {
             "primary": "safssdfas",
@@ -43,7 +43,7 @@
             "consentType": "ZŚUDE",
             "state": "Wycofana",
             "created": "2019-10-08 11:12:00.111",
-            "isActive": "true",
+            "isActive": "false",
             "age": "9"
           },          {
             "primary": "safssdfas",
