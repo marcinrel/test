@@ -63,8 +63,7 @@
             "created": "2019-10-05 11:12:00.111",
             "isActive": "false",
             "age": "9"
-          }
-		  ],
+          }],
   "informationObligations": [
     { "subjectId": "GUID", "subjectValue": "+48695742795", "subjectType":"taxId", "eventId": "1", "evidenceId": "GUID", "evidenceType": "2", "created" : "data" }
   ]
